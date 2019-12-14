@@ -1,0 +1,27 @@
+{
+  "name": "node_linebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "firebase-admin": "^8.8.0",
+    "linebot": "^1.5.3",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xypegclk/node_LineBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xypegclk/node_LineBot/issues"
+  },
+  "homepage": "https://github.com/xypegclk/node_LineBot#readme"
+}

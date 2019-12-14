@@ -1,0 +1,5 @@
+cron:
+- description: "會顯示在cron工作的說明欄位上"
+  url: /linewebhook
+  schedule: every day 07:00
+  timezone: Asia/Taipei
